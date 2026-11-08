@@ -1,0 +1,16 @@
+# 데이터·중간 산출물
+최종자료/데이터/
+최종자료/cache_tune/
+*.csv
+*.pkl
+*.log
+
+# 타인 저작물·참고자료
+논문_수상작/
+참고자료/
+
+# 백업본
+**/_backup_*/
+
+__pycache__/
+.ipynb_checkpoints/
